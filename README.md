@@ -2,9 +2,9 @@
 
 ## Descrição: Este repositório apresenta códigos desenvolvidos para o trbalho de conclusão de curso da aluna Maria Claudia Rosa Negri.
 
-O arquivo '<i>detector_QRS.py' apresenta o código base desenvolvido tanto para a validação do detector QRS quanto para a formação da curva RR. Algumas técnicas utilizadas nos estudo da variabilidade da frequência cardíaca estão apresentados no código também.
+O arquivo '***detector_QRS.py***' apresenta o código base desenvolvido tanto para a validação do detector QRS quanto para a formação da curva RR. Algumas técnicas utilizadas nos estudo da variabilidade da frequência cardíaca estão apresentados no código também.
 
-O arquivo '<i>transf_wave.py' apresenta o código desenvolvido para a detecção de APBs por meio da transformada wavelet.
+O arquivo '***transf_wave.py***' apresenta o código desenvolvido para a detecção de APBs por meio da transformada wavelet.
 
 Os outros arquivos são funções implementadas para facilitar o desenvolvimento.
 
